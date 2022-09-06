@@ -1,5 +1,5 @@
 # RTR-105
-##Strudiju kursa Datormācība (pamatkurss) elektroniskā klade [^1]
+## Strudiju kursa Datormācība (pamatkurss) elektroniskā klade [^1]
 Satura rādītājs
 - 1.sadaļa
 - 2.sadaļa
