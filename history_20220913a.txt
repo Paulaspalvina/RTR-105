@@ -1,0 +1,17 @@
+    1  firefox
+    2  firefox &
+    3  echo $0
+    4  whoami
+    5  who
+    6  pwd
+    7  ls -l
+    8  ps
+    9  ps aux
+   10  ps -aux |gep firefox
+   11  [s -aux |grep firifox
+   12  ps -aux |grep firefox
+   13  kill 3267
+   14  kill 2507
+   15  history
+   16  history
+   17  history > history_20220913a.txt
