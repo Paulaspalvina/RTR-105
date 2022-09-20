@@ -1,0 +1,77 @@
+    1  ls
+    2  whereis ls
+    3  pwd
+    4  ls -lt /bin/ls
+    5  ls
+    6  ls /bin/ls
+    7  ls -l
+    8  ls -/bin/ls
+    9  ls -l /bin/ls
+   10  ls -l
+   11  ls -l /bin/ls
+   12  ls -l /bin/ls
+   13  cd /bin
+   14  ls
+   15  ls -l
+   16  echo $0
+   17  sh
+   18  echo $0
+   19  echo $0
+   20  pwd
+   21  ls
+   22  ls -l
+   23  man cd
+   24  echo $0
+   25  sh
+   26  ls
+   27  exit
+   28  ls
+   29  ls -l
+   30  whereis ls
+   31  ls -l ls
+   32  ls -l
+   33  cat ls
+   34  pwd
+   35  ls
+   36  whwereisls
+   37  whereisls
+   38  whwereis ls
+   39   /bin/ls
+   40  echo $PATH
+   41  ls
+   42  whwereis ls
+   43  ls
+   44  whwereis ls
+   45  ls -l /bin/ls
+   46  ls
+   47  git clone https://github.com/Paulaspalvina/RTR-105_V01_2022
+   48  pwd
+   49  cd
+   50  git clone https://github.com/Paulaspalvina/RTR-105_V01_2022
+   51  git clone https://github.com/Paula.spalvina@edu.rtu.lv/RTR-105_V01_2022
+   52  Paulaspalvina
+   53  git clone https://github.com/Paulaspalvina/RTR-105_V01_2022
+   54  git clone https://github.com/Paulaspalvina/RTR-105
+   55  Paulaspalvina
+   56  user@epk428-7:~$ git clone https://github.com/Paulaspalvina/RTR-105
+   57  user@epk428-7:~$ git clone https://github.com/Paulaspalvina/RTR-105
+   58  user@epk428-7:~$ git clone https://github.com/Paulaspalvina/RTR-105
+   59  git clone https://github.com/Paulaspalvina/RTR-105
+   60  git clone https://github.com/Paulaspalvina/RTR-105
+   61  ls -lt
+   62  git clone https://github.com/Paulaspalvina/RTR-105
+   63  git clone https://github.com/Paulaspalvina/RTR-105_V01_2022
+   64  git clone https://github.com/paula.spalvina@edu.rtu.lv/RTR-105_V01_2022
+   65  Paulaspalvina
+   66  ls -lt
+   67  cd RTR-105/
+   68  ls 
+   69  pwd
+   70  ls -lt
+   71  history > history_20220920.txt 
+   72  ls -lt
+   73  nano git-upload
+   74  ls -lt
+   75  chmod 764 git-upload 
+   76  ls -lt
+   77  history > history_20220920.txt 
