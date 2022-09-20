@@ -75,3 +75,26 @@
    75  chmod 764 git-upload 
    76  ls -lt
    77  history > history_20220920.txt 
+   78  ls -lt
+   79  pwd
+   80  ls -lt
+   81  git-upload
+   82  ./git-upload 
+   83  cd ..
+   84  pwd
+   85  rm -rf RTR-105_2022_V01
+   86  ls -lt
+   87  history | grep clone
+   88  man grep
+   89  pwd
+   90  ls -lt
+   91  cd RTR-105_2022_V01/
+   92  ls -lt
+   93  pwd
+   94  ls -lt
+   95  cd RTR-105/
+   96  ls
+   97  ls
+   98  pwd
+   99  ls -lt
+  100  history > history_20220920.txt 
