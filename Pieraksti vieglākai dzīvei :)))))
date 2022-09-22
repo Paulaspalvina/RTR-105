@@ -1,4 +1,5 @@
-# 1. Shell komandām un paņēmieniem.
+# Shell komandām un paņēmieniem.
+##
 2. Kommandas
    * `uname` - OS noskaidrošana
    * `whoami` - Parāda esošā Shell lietotāja nosaukumu.
