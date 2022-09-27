@@ -1,0 +1,106 @@
+    1  pwd
+    2  git clone https://github.com/Paulaspalvina/RTR-105
+    3  ls -lt
+    4  ls
+    5  whereis ls
+    6  ls -l /bin/ls
+    7  echo $PATH
+    8  ls
+    9  pwd
+   10  ls -lt
+   11  cd RTR-105
+   12  mkdir class_06
+   13  cd DClass_06
+   14  cd Class_06
+   15  ls -lt
+   16  mkdir Class_06$ pwd
+   17  mkdir Class_06
+   18  pwd
+   19  nano firts.c
+   20  ls -lt
+   21  firts.c
+   22  mv firts.c firts.c
+   23  msn gcc
+   24  man gcc
+   25  ls -lt
+   26  cat firts.c
+   27  nano firts.c
+   28  nano first.c
+   29  https://github.com/Paulaspalvina/RTR-105
+   30  class_06
+   31  class_04a
+   32  pwd
+   33  ls -lt
+   34  pwd
+   35  cd Class_06
+   36  nano first.c
+   37  ../Class_06/a.out
+   38  ls- la
+   39  tree
+   40  pwd
+   41  tree
+   42  pwd
+   43  cd Class_06
+   44  cd Class_06
+   45  nano first.c
+   46  nano first.c
+   47  echo $?
+   48  a.out
+   49  echo $?
+   50  lss
+   51  echo $?
+   52  cp a.out /bin/
+   53  gcc first.c
+   54  nano first.c
+   55  ls -lt
+   56  ./a/out
+   57  ls -lt
+   58  cat first.c
+   59  gcc first.c
+   60  ls -lt
+   61  nano first.c
+   62  gcc first.c
+   63  ls -lt
+   64  ./a.out
+   65  echo $?
+   66  gcc first.c
+   67  nano first.c
+   68  echo $?
+   69  ./a.out
+   70  nano first.c
+   71  ls -lt
+   72  gcc first.c -o first.out
+   73  ls -lt
+   74  man gcc
+   75  ls -lt
+   76  mv first.out first_V1.out
+   77  gcc first.c -o first.out
+   78  ls -lt
+   79  pwd
+   80  ls -lt
+   81  tree
+   82  ls -lta
+   83  nano .gitignore
+   84  ls -lt
+   85  ls -lta
+   86  cd Class_06$
+   87  ls -lt
+   88  hcc first.c -S -o first.out
+   89  ls -lt
+   90  gcc first.c -S -save-temps -o first.out
+   91  ls -lt
+   92  cat first.c
+   93  gcc first.c -save-temps -o first.out
+   94  ls -lt
+   95  cat first -S
+   96  cat first.c
+   97  ls -lt
+   98  cat first.c
+   99  hexdump -C first.c
+  100  2f(hex) -> 1111(bin) -> 47(bin)
+  101  cd ..
+  102  pwd
+  103  ls -lta
+  104  ./git.upload 06
+  105  ./git-upload 06
+  106  history > history_20220927.txt
