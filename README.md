@@ -16,7 +16,6 @@ int main() {
     c = a * b;  
 //rezultaats  
     printf("\n%lli", c,"\n");  
-
     return 0;  
 }  
 1. Paņēmieni
