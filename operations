@@ -1,0 +1,20 @@
+//  operācijas:   operands_1 operācija operands_2  |operācija operands|
+//                (datu tips)          (datu tips)
+                                ||
+                                \/
+                             operācijas_rezultāts
+                                  (datu tips)
+//  parasti operācijas rezultātā datu tips ir "lielāks
+// bitu: >>, <<
+//
+// Ko pētīt šodien: kā strādā operācija?
+//                  vai operācijā drīkst izmantot jebkuru datu tipu?
+//                  operāciju izpildīšanas secība? (to nosaka prioritāte;
+//                                                   secības kontrolei izmanto (})
+// / (int/int vai char?char), %, &, |, ^, !, &&, ||, <<, >>
+//
+
+
+#include<stdio.h>
+int main()
+ {
